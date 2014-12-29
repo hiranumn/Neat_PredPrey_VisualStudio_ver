@@ -1,6 +1,7 @@
 Last updated: 2014/12/29 by Naozumi Hiranuma 
 
 This is a github copy of the project. See https://bitbucket.org/hiranumn/neatxcode_2 for the original repo.
+See gecco_predprey_paper_2014.pdf for more datailed description of this project. 
 
 This version of the project is trying to recreate the experiment done by Luke et al in "Evolving teamwork and coordination with genetic programming", except using neural networks (NEAT) instead of GP.
 
