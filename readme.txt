@@ -2,7 +2,7 @@ Last updated: 2014/12/29 by Naozumi Hiranuma
 
 This is a github copy of the project. See https://bitbucket.org/hiranumn/neatxcode_2 for the original repo.
 
-This version of neat is trying to recreate the experiment done by Luke et al in "Evolving teamwork and coordination with genetic programming", except using neural networks instead of GP.
+This version of the project is trying to recreate the experiment done by Luke et al in "Evolving teamwork and coordination with genetic programming", except using neural networks (NEAT) instead of GP.
 
 ###How to complie this with visiual studio 12###
 ~INSTALLING SFML~
